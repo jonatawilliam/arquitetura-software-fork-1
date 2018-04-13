@@ -1,28 +1,22 @@
 package com.mycompany.mavenproject1.dao;
 
-import java.util.Set;
-
 import com.mycompany.mavenproject1.data.Country;
-import java.sql.Connection;
-import java.sql.DriverManager;
+
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.HashSet;
+import java.util.Set;
 
 public class CountryDAO {
 
-    private String dbURL = "jdbc:mysql://localhost:3306/saapp";
-    private String username = "root";
-    private String password = "gabriel";
-
     public void create(Country country) throws Exception {
-        try (Connection conn = DriverManager.getConnection(dbURL, username, password)) {
+        try {
 
             String sql = "INSERT INTO country (name, acronym, digits) VALUES (?, ?, ?)";
 
-            PreparedStatement statement = conn.prepareStatement(sql);
+            PreparedStatement statement = Conexao.getConnection().prepareStatement(sql);
             statement.setString(1, country.getName());
             statement.setString(2, country.getAcronym());
             statement.setInt(3, country.getDigits());
@@ -71,11 +65,11 @@ public class CountryDAO {
     public Set<Country> readAll() {
         Set<Country> resultSet = new HashSet<>();
 
-        try (Connection conn = DriverManager.getConnection(dbURL, username, password)) {
+        try {
 
             String sql = "SELECT * FROM country";
 
-            Statement statement = conn.createStatement();
+            Statement statement = Conexao.getConnection().createStatement();
             ResultSet result = statement.executeQuery(sql);
 
             while (result.next()) {
@@ -96,11 +90,11 @@ public class CountryDAO {
     }
 
     public void update(Country newCountry, String name) {
-        try (Connection conn = DriverManager.getConnection(dbURL, username, password)) {
+        try {
 
             String sql = "UPDATE country SET name=?, acronym=?, digits=? WHERE name like ?";
 
-            PreparedStatement statement = conn.prepareStatement(sql);
+            PreparedStatement statement = Conexao.getConnection().prepareStatement(sql);
             statement.setString(1, newCountry.getName());
             statement.setString(2, newCountry.getAcronym());
             statement.setInt(3, newCountry.getDigits());
@@ -119,11 +113,11 @@ public class CountryDAO {
     }
 
     public void delete(String name) {
-        try (Connection conn = DriverManager.getConnection(dbURL, username, password)) {
+        try {
 
             String sql = "DELETE FROM country WHERE name like ?";
 
-            PreparedStatement statement = conn.prepareStatement(sql);
+            PreparedStatement statement = Conexao.getConnection().prepareStatement(sql);
             statement.setString(1, name);
 
             int rowsDeleted = statement.executeUpdate();
