@@ -1,1 +1,6 @@
 /1-tier-desk-app/target/
+.DS_Store
+/1-tier-desk-app/.idea/
+*.class
+*.iml
+*.jar
