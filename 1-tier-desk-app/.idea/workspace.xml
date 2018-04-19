@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d18ce5a5-7aa9-437e-9e21-2c3083adbb05" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mavenproject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mavenproject1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/dao/Conexao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/dao/Conexao.java" afterDir="false" />
-    </list>
+    <list default="true" id="d18ce5a5-7aa9-437e-9e21-2c3083adbb05" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +21,382 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="saapp@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="saapp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="saapp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="saapp: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mavenproject1" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MODULES/mdl-mavenproject1" pinned="false" current-in-tab="false">
+        <entry file="uml://MODULES/mdl-mavenproject1">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>MODULES</ID>
+              <OriginalElement>mdl-mavenproject1</OriginalElement>
+              <nodes>
+                <node x="0.0" y="0.0">mdl-mavenproject1</node>
+              </nodes>
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-134.0" y="-82.0" />
+              <SelectedNodes>
+                <node>mdl-mavenproject1</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Libraries</Category>
+                <Category>Test dependencies</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement />
+              <nodes>
+                <node x="163.0" y="444.0">com</node>
+                <node x="193.0" y="296.0">netscape</node>
+                <node x="0.0" y="370.0">oracle</node>
+                <node x="0.0" y="74.0">ArchitectureDescription</node>
+                <node x="0.0" y="0.0">Architecture Description Pictures</node>
+                <node x="155.0" y="518.0">org</node>
+                <node x="0.0" y="296.0">resources</node>
+                <node x="0.0" y="148.0">toolbarButtonGraphics</node>
+                <node x="0.0" y="518.0">sun</node>
+                <node x="230.0" y="222.0">META-INF</node>
+                <node x="308.0" y="518.0">jdk</node>
+                <node x="337.0" y="370.0">apple</node>
+                <node x="0.0" y="222.0">groovyjarjarasm</node>
+                <node x="321.0" y="444.0">java</node>
+                <node x="381.0" y="296.0">groovy</node>
+                <node x="0.0" y="444.0">javax</node>
+                <node x="278.0" y="74.0">groovyjarjarcommonscli</node>
+                <node x="169.0" y="370.0">javafx</node>
+                <node x="274.0" y="148.0">groovyjarjarantlr</node>
+              </nodes>
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="33.5" y="177.0" />
+              <SelectedNodes>
+                <node>com</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/com.mycompany.mavenproject1.dao" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.mycompany.mavenproject1.dao">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.mycompany.mavenproject1.dao</OriginalElement>
+              <nodes>
+                <node x="312.0" y="0.0">com.mycompany.mavenproject1.dao.Conexao</node>
+                <node x="0.0" y="0.0">com.mycompany.mavenproject1.dao.CountryDAO</node>
+                <node x="302.0" y="228.0">com.mycompany.mavenproject1.dao.CustomerDAOTest</node>
+                <node x="0.0" y="434.0">com.mycompany.mavenproject1.dao.CountryDAOTest</node>
+                <node x="0.0" y="228.0">com.mycompany.mavenproject1.dao.CustomerDAO</node>
+              </nodes>
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="56.0" y="179.5" />
+              <SelectedNodes>
+                <node>com.mycompany.mavenproject1.dao.Conexao</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/com.mycompany.mavenproject1" pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/com.mycompany.mavenproject1">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.mycompany.mavenproject1</OriginalElement>
+              <nodes>
+                <node x="303.23851190476205" y="379.0">com.mycompany.mavenproject1.data.Customer</node>
+                <node x="484.7647108843538" y="2005.0">com.mycompany.mavenproject1.ui.MainUI</node>
+                <node x="150.73851190476205" y="33.0">com.mycompany.mavenproject1.dao.Conexao</node>
+                <node x="695.4440476190478" y="457.5">com.mycompany.mavenproject1.dao.CountryDAO</node>
+                <node x="523.0228146258504" y="1586.5">com.mycompany.mavenproject1.dao.CustomerDAOTest</node>
+                <node x="517.2019727891159" y="0.0">com.mycompany.mavenproject1.data.Country</node>
+                <node x="616.7440476190477" y="993.5">com.mycompany.mavenproject1.dao.CountryDAOTest</node>
+                <node x="20.0" y="1366.0">com.mycompany.mavenproject1.ui.CustomerUI</node>
+                <node x="293.1186394557825" y="972.0">com.mycompany.mavenproject1.dao.CustomerDAO</node>
+                <node x="910.4940476190476" y="839.0">com.mycompany.mavenproject1.ui.CountryUI</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.mycompany.mavenproject1.ui.CustomerUI" target="com.mycompany.mavenproject1.ui.CustomerUI">
+                  <point x="-94.25" y="279.5" />
+                  <point x="114.25" y="1945.0" />
+                  <point x="0.0" y="1945.0" />
+                  <point x="0.0" y="1645.5" />
+                  <point x="-188.5" y="-0.0" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.dao.CustomerDAOTest" target="com.mycompany.mavenproject1.dao.CountryDAO">
+                  <point x="92.57142857142856" y="-59.0" />
+                  <point x="723.594243197279" y="1346.0" />
+                  <point x="857.9940476190477" y="1346.0" />
+                  <point x="857.9940476190477" y="819.0" />
+                  <point x="842.2940476190477" y="819.0" />
+                  <point x="13.349999999999909" y="91.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.ui.CustomerUI" target="com.mycompany.mavenproject1.data.Customer">
+                  <point x="-23.5625" y="-279.5" />
+                  <point x="184.9375" y="1346.0" />
+                  <point x="204.49297619047627" y="1346.0" />
+                  <point x="204.49297619047627" y="779.0" />
+                  <point x="378.59565476190494" y="779.0" />
+                  <point x="-30.14285714285711" y="170.0" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.dao.CountryDAOTest" target="com.mycompany.mavenproject1.dao.CountryDAO">
+                  <point x="25.75" y="-59.0" />
+                  <point x="745.4940476190477" y="819.0" />
+                  <point x="788.8940476190478" y="819.0" />
+                  <point x="-40.049999999999955" y="91.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.ui.MainUI" target="com.mycompany.mavenproject1.dao.CountryDAO">
+                  <point x="89.49999999999989" y="-114.5" />
+                  <point x="753.2647108843537" y="1975.0" />
+                  <point x="879.9940476190477" y="1975.0" />
+                  <point x="879.9940476190477" y="819.0" />
+                  <point x="895.6940476190478" y="819.0" />
+                  <point x="66.75" y="91.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.ui.CountryUI" target="com.mycompany.mavenproject1.data.Country">
+                  <point x="126.75" y="-213.5" />
+                  <point x="1206.2440476190477" y="819.0" />
+                  <point x="1157.6329251700681" y="819.0" />
+                  <point x="1157.6329251700681" y="269.0" />
+                  <point x="768.2853061224492" y="269.0" />
+                  <point x="120.08333333333337" y="114.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.dao.CustomerDAO" target="com.mycompany.mavenproject1.dao.Conexao">
+                  <point x="-96.375" y="-80.5" />
+                  <point x="325.2436394557825" y="759.0" />
+                  <point x="272.73851190476205" y="759.0" />
+                  <point x="0.0" y="81.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.ui.MainUI" target="com.mycompany.mavenproject1.ui.MainUI">
+                  <point x="-89.5" y="114.5" />
+                  <point x="574.2647108843538" y="2254.0" />
+                  <point x="464.7647108843538" y="2254.0" />
+                  <point x="464.7647108843538" y="2176.75" />
+                  <point x="-179.0" y="57.25" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.ui.MainUI" target="com.mycompany.mavenproject1.ui.CountryUI">
+                  <point x="149.16666666666663" y="-114.5" />
+                  <point x="812.9313775510204" y="1985.0" />
+                  <point x="1163.9940476190477" y="1985.0" />
+                  <point x="84.5" y="213.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.dao.Conexao" target="com.mycompany.mavenproject1.dao.Conexao">
+                  <point x="-81.33333333333331" y="81.5" />
+                  <point x="191.40517857142873" y="216.0" />
+                  <point x="130.73851190476205" y="216.0" />
+                  <point x="130.73851190476205" y="114.5" />
+                  <point x="-122.0" y="-0.0" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.dao.CustomerDAOTest" target="com.mycompany.mavenproject1.dao.CustomerDAO">
+                  <point x="-92.57142857142856" y="-59.0" />
+                  <point x="538.4513860544218" y="1346.0" />
+                  <point x="485.8686394557825" y="1346.0" />
+                  <point x="64.25" y="80.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.dao.CustomerDAO" target="com.mycompany.mavenproject1.data.Customer">
+                  <point x="-32.125" y="-80.5" />
+                  <point x="389.4936394557825" y="779.0" />
+                  <point x="408.73851190476205" y="779.0" />
+                  <point x="0.0" y="170.0" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.ui.MainUI" target="com.mycompany.mavenproject1.dao.CustomerDAO">
+                  <point x="-89.50000000000011" y="-114.5" />
+                  <point x="574.2647108843537" y="1975.0" />
+                  <point x="416.11863945578256" y="1975.0" />
+                  <point x="416.11863945578256" y="1346.0" />
+                  <point x="400.20197278911587" y="1346.0" />
+                  <point x="-21.41666666666663" y="80.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.dao.CountryDAOTest" target="com.mycompany.mavenproject1.data.Country">
+                  <point x="-25.75" y="-59.0" />
+                  <point x="693.9940476190477" y="779.0" />
+                  <point x="673.7440476190477" y="779.0" />
+                  <point x="673.7440476190477" y="359.0" />
+                  <point x="680.9519727891159" y="359.0" />
+                  <point x="32.75" y="114.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.ui.CustomerUI" target="com.mycompany.mavenproject1.dao.CustomerDAO">
+                  <point x="164.9375" y="-279.5" />
+                  <point x="373.4375" y="1346.0" />
+                  <point x="357.3686394557825" y="1346.0" />
+                  <point x="-64.25" y="80.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.dao.CountryDAOTest" target="com.mycompany.mavenproject1.dao.CountryDAOTest">
+                  <point x="-51.5" y="59.0" />
+                  <point x="668.2440476190477" y="1131.5" />
+                  <point x="596.7440476190477" y="1131.5" />
+                  <point x="596.7440476190477" y="1052.5" />
+                  <point x="-103.0" y="-0.0" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.dao.CountryDAO" target="com.mycompany.mavenproject1.dao.Conexao">
+                  <point x="-89.0" y="-91.5" />
+                  <point x="739.9440476190478" y="309.0" />
+                  <point x="354.0718452380954" y="309.0" />
+                  <point x="81.33333333333337" y="81.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.dao.CustomerDAOTest" target="com.mycompany.mavenproject1.dao.CustomerDAOTest">
+                  <point x="0.0" y="59.0" />
+                  <point x="631.0228146258504" y="1724.5" />
+                  <point x="503.0228146258504" y="1724.5" />
+                  <point x="503.0228146258504" y="1645.5" />
+                  <point x="-108.0" y="-0.0" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.dao.CustomerDAOTest" target="com.mycompany.mavenproject1.dao.CountryDAOTest">
+                  <point x="61.71428571428578" y="-59.0" />
+                  <point x="692.7371003401362" y="1336.0" />
+                  <point x="771.2440476190477" y="1336.0" />
+                  <point x="51.5" y="59.0" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.data.Customer" target="com.mycompany.mavenproject1.data.Customer">
+                  <point x="-90.42857142857144" y="170.0" />
+                  <point x="318.3099404761906" y="739.0" />
+                  <point x="283.23851190476205" y="739.0" />
+                  <point x="283.23851190476205" y="549.0" />
+                  <point x="-105.5" y="-0.0" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.dao.CustomerDAOTest" target="com.mycompany.mavenproject1.data.Customer">
+                  <point x="-30.85714285714289" y="-59.0" />
+                  <point x="600.1656717687075" y="1326.0" />
+                  <point x="560.6186394557825" y="1326.0" />
+                  <point x="560.6186394557825" y="779.0" />
+                  <point x="469.02422619047627" y="779.0" />
+                  <point x="60.28571428571422" y="170.0" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.ui.CustomerUI" target="com.mycompany.mavenproject1.dao.CountryDAO">
+                  <point x="23.5625" y="-279.5" />
+                  <point x="232.0625" y="1346.0" />
+                  <point x="215.49297619047627" y="1346.0" />
+                  <point x="215.49297619047627" y="789.0" />
+                  <point x="708.7940476190477" y="789.0" />
+                  <point x="-120.14999999999998" y="91.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.ui.CustomerUI" target="com.mycompany.mavenproject1.data.Country">
+                  <point x="-164.9375" y="-279.5" />
+                  <point x="43.5625" y="1316.0" />
+                  <point x="141.62185374149658" y="1316.0" />
+                  <point x="141.62185374149658" y="319.0" />
+                  <point x="549.9519727891159" y="319.0" />
+                  <point x="-98.25" y="114.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.ui.MainUI" target="com.mycompany.mavenproject1.ui.CustomerUI">
+                  <point x="-149.16666666666663" y="-114.5" />
+                  <point x="514.5980442176872" y="1985.0" />
+                  <point x="302.75" y="1985.0" />
+                  <point x="94.25" y="279.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.data.Country" target="com.mycompany.mavenproject1.data.Country">
+                  <point x="-120.08333333333333" y="114.5" />
+                  <point x="528.1186394557825" y="249.0" />
+                  <point x="497.20197278911587" y="249.0" />
+                  <point x="497.20197278911587" y="114.5" />
+                  <point x="-131.0" y="-0.0" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.dao.CountryDAO" target="com.mycompany.mavenproject1.data.Country">
+                  <point x="0.0" y="-91.5" />
+                  <point x="828.9440476190478" y="299.0" />
+                  <point x="702.7853061224492" y="299.0" />
+                  <point x="54.58333333333337" y="114.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.dao.CustomerDAOTest" target="com.mycompany.mavenproject1.data.Country">
+                  <point x="30.85714285714289" y="-59.0" />
+                  <point x="661.8799574829933" y="1306.0" />
+                  <point x="586.2440476190476" y="1306.0" />
+                  <point x="586.2440476190476" y="359.0" />
+                  <point x="637.2853061224491" y="359.0" />
+                  <point x="-10.916666666666742" y="114.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.data.Customer" target="com.mycompany.mavenproject1.data.Country">
+                  <point x="-52.75" y="-170.0" />
+                  <point x="355.98851190476205" y="339.0" />
+                  <point x="593.6186394557825" y="339.0" />
+                  <point x="-54.58333333333337" y="114.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.dao.CustomerDAO" target="com.mycompany.mavenproject1.dao.CountryDAO">
+                  <point x="96.375" y="-80.5" />
+                  <point x="517.9936394557825" y="809.0" />
+                  <point x="762.1940476190478" y="809.0" />
+                  <point x="-66.75" y="91.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.ui.CountryUI" target="com.mycompany.mavenproject1.dao.CountryDAO">
+                  <point x="-126.75" y="-213.5" />
+                  <point x="952.7440476190476" y="819.0" />
+                  <point x="922.3940476190476" y="819.0" />
+                  <point x="93.44999999999993" y="91.5" />
+                </edge>
+                <edge source="com.mycompany.mavenproject1.ui.CountryUI" target="com.mycompany.mavenproject1.ui.CountryUI">
+                  <point x="-84.5" y="213.5" />
+                  <point x="994.9940476190476" y="1286.0" />
+                  <point x="890.4940476190476" y="1286.0" />
+                  <point x="890.4940476190476" y="1052.5" />
+                  <point x="-169.0" y="-0.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="707.0" y="862.5" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,6 +425,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/dao/Conexao.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0c86bc71-ef4d-4d44-b68e-8d31badbca65/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/1c82e892-863c-4cf8-8171-9985dfb9b5a5/console.sql" />
       </list>
     </option>
   </component>
@@ -67,6 +434,17 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mavenproject1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="-1" />
@@ -132,39 +510,6 @@
               <item name="mycompany" type="462c0819:PsiDirectoryNode" />
               <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-tier-desk-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-tier-desk-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-tier-desk-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -180,6 +525,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -264,15 +613,16 @@
       <updated>1523576917911</updated>
       <workItem from="1523576921589" duration="25000" />
       <workItem from="1523576974068" duration="869000" />
-      <workItem from="1524090333820" duration="1113000" />
+      <workItem from="1524090333820" duration="3361000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2694000" />
+    <option name="totallyTimeSpent" value="4942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -281,36 +631,72 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32956383" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3296355" />
       <window_info id="Capture Tool" order="2" />
-      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32965517" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49931034" visible="true" weight="0.2536349" />
       <window_info anchor="right" id="Database" order="3" weight="0.32956383" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.5006896" side_tool="true" weight="0.2536349" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24959612" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.5006896" side_tool="true" weight="0.2536349" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32965517" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Learn" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32965517" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24959612" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.5006896" side_tool="true" weight="0.2536349" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3296355" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32956383" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49931034" visible="true" weight="0.2536349" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32956383" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" sideWeight="0.5006896" side_tool="true" weight="0.2536349" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/dao/Conexao.java">
@@ -384,13 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1305">
           <caret line="87" lean-forward="true" selection-end-line="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/DBSchema.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="38" selection-end-line="87" />
         </state>
       </provider>
     </entry>
@@ -469,5 +848,707 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1c82e892-863c-4cf8-8171-9985dfb9b5a5/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/DBSchema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="13" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.mycompany:mavenproject1:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.mycompany:mavenproject1:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.mycompany:mavenproject1:1.0-SNAPSHOT</node>
+            <node x="" y="">junit:junit:jar:4.12</node>
+            <node x="" y="">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:6.0.6</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="139.0" y="93.5" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/jonatawilliam/Google Drive/UTFPR/Eng_Software/Arquitetura de Software/arquitetura-software-fork-1/1-tier-desk-app">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="462.0" y="336.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mycompany.mavenproject1.data.Country">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mycompany.mavenproject1.data.Country</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.mycompany.mavenproject1.data.Country</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-91.0" y="18.0" />
+          <SelectedNodes>
+            <node>com.mycompany.mavenproject1.data.Country</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mycompany.mavenproject1.data.Customer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mycompany.mavenproject1.data.Customer</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.mycompany.mavenproject1.data.Customer</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-116.5" y="73.5" />
+          <SelectedNodes>
+            <node>com.mycompany.mavenproject1.data.Customer</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mycompany.mavenproject1.ui.CountryUI">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mycompany.mavenproject1.ui.CountryUI</OriginalElement>
+          <nodes>
+            <node x="" y="">java.awt.Container.WakingRunnable</node>
+            <node x="" y="">java.awt.Container.MouseEventTargetFilter</node>
+            <node x="" y="">java.awt.Component.DummyRequestFocusController</node>
+            <node x="" y="">java.awt.Component.BaselineResizeBehavior</node>
+            <node x="" y="">javax.swing.TransferHandler.HasGetTransferHandler</node>
+            <node x="" y="">java.awt.image.ImageObserver</node>
+            <node x="" y="">java.awt.Window.Type</node>
+            <node x="" y="">java.awt.Component.FlipBufferStrategy</node>
+            <node x="" y="">java.awt.Component.BltBufferStrategy</node>
+            <node x="" y="">java.awt.Component.AccessibleAWTComponent</node>
+            <node x="" y="">java.awt.Component.FlipSubRegionBufferStrategy</node>
+            <node x="" y="">java.awt.Component.ProxyCapabilities</node>
+            <node x="" y="">java.awt.Container.AccessibleAWTContainer</node>
+            <node x="" y="">java.awt.Container</node>
+            <node x="" y="">java.awt.Component.SingleBufferStrategy</node>
+            <node x="" y="">java.awt.Container.DropTargetEventTargetFilter</node>
+            <node x="" y="">javax.swing.JFrame</node>
+            <node x="" y="">java.awt.Component.BltSubRegionBufferStrategy</node>
+            <node x="" y="">java.awt.Window.WindowDisposerRecord</node>
+            <node x="" y="">java.awt.Frame</node>
+            <node x="" y="">java.awt.Window</node>
+            <node x="" y="">java.awt.MenuContainer</node>
+            <node x="" y="">javax.swing.RootPaneContainer</node>
+            <node x="" y="">java.awt.Frame.AccessibleAWTFrame</node>
+            <node x="" y="">javax.accessibility.Accessible</node>
+            <node x="" y="">java.awt.Container.AccessibleAWTContainer.AccessibleContainerHandler</node>
+            <node x="" y="">java.awt.Component</node>
+            <node x="" y="">java.awt.Container.EventTargetFilter</node>
+            <node x="" y="">java.io.Serializable</node>
+            <node x="" y="">java.awt.Component.AccessibleAWTComponent.AccessibleAWTComponentHandler</node>
+            <node x="" y="">java.awt.Component.AWTTreeLock</node>
+            <node x="" y="">java.awt.Window.AccessibleAWTWindow</node>
+            <node x="" y="">java.awt.Component.AccessibleAWTComponent.AccessibleAWTFocusHandler</node>
+            <node x="" y="">javax.swing.WindowConstants</node>
+            <node x="" y="">javax.swing.JFrame.AccessibleJFrame</node>
+            <node x="" y="">com.mycompany.mavenproject1.ui.CountryUI</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="2017.0" y="10911.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mycompany.mavenproject1.ui.MainUI">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mycompany.mavenproject1.ui.MainUI</OriginalElement>
+          <nodes>
+            <node x="" y="">javax.swing.TransferHandler.HasGetTransferHandler</node>
+            <node x="" y="">java.awt.image.ImageObserver</node>
+            <node x="" y="">com.mycompany.mavenproject1.ui.MainUI</node>
+            <node x="" y="">java.awt.Container</node>
+            <node x="" y="">javax.swing.JFrame</node>
+            <node x="" y="">java.awt.Frame</node>
+            <node x="" y="">java.awt.Window</node>
+            <node x="" y="">java.awt.MenuContainer</node>
+            <node x="" y="">javax.swing.RootPaneContainer</node>
+            <node x="" y="">javax.accessibility.Accessible</node>
+            <node x="" y="">java.awt.Component</node>
+            <node x="" y="">java.io.Serializable</node>
+            <node x="" y="">javax.swing.WindowConstants</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6969644323953049" x="868.1371433440883" y="462.807994725825" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/jonatawilliam/Google Drive/UTFPR/Eng_Software/Arquitetura de Software/arquitetura-software-fork-1/1-tier-desk-app/src/main/java/com/mycompany/mavenproject1/dao;/Users/jonatawilliam/Google Drive/UTFPR/Eng_Software/Arquitetura de Software/arquitetura-software-fork-1/1-tier-desk-app/src/main/java/com/mycompany/mavenproject1/data;/Users/jonatawilliam/Google Drive/UTFPR/Eng_Software/Arquitetura de Software/arquitetura-software-fork-1/1-tier-desk-app/src/main/java/com/mycompany/mavenproject1/ui;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/dao;/Users/jonatawilliam/Google Drive/UTFPR/Eng_Software/Arquitetura de Software/arquitetura-software-fork-1/1-tier-desk-app/src/main/java/com/mycompany/mavenproject1/data;/Users/jonatawilliam/Google Drive/UTFPR/Eng_Software/Arquitetura de Software/arquitetura-software-fork-1/1-tier-desk-app/src/main/java/com/mycompany/mavenproject1/ui;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="462.0" y="336.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/jonatawilliam/Google Drive/UTFPR/Eng_Software/Arquitetura de Software/arquitetura-software-fork-1/1-tier-desk-app/src/main/java/com/mycompany/mavenproject1/data;/Users/jonatawilliam/Google Drive/UTFPR/Eng_Software/Arquitetura de Software/arquitetura-software-fork-1/1-tier-desk-app/src/main/java/com/mycompany/mavenproject1/dao;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/data;/Users/jonatawilliam/Google Drive/UTFPR/Eng_Software/Arquitetura de Software/arquitetura-software-fork-1/1-tier-desk-app/src/main/java/com/mycompany/mavenproject1/dao;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="462.0" y="336.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mycompany.mavenproject1.data">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mycompany.mavenproject1.data</OriginalElement>
+          <nodes>
+            <node x="" y="">com.mycompany.mavenproject1.data.Customer</node>
+            <node x="" y="">com.mycompany.mavenproject1.data.Country</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="259.0" y="170.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/jonatawilliam/Google Drive/UTFPR/Eng_Software/Arquitetura de Software/arquitetura-software-fork-1/1-tier-desk-app/src/main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="462.0" y="336.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/jonatawilliam/Google Drive/UTFPR/Eng_Software/Arquitetura de Software/arquitetura-software-fork-1/1-tier-desk-app/src">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="462.0" y="336.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-mavenproject1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-mavenproject1</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">mdl-mavenproject1</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-134.0" y="-82.0" />
+          <SelectedNodes>
+            <node>mdl-mavenproject1</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Libraries</Category>
+            <Category>Test dependencies</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="163.0" y="444.0">com</node>
+            <node x="193.0" y="296.0">netscape</node>
+            <node x="0.0" y="370.0">oracle</node>
+            <node x="0.0" y="74.0">ArchitectureDescription</node>
+            <node x="0.0" y="0.0">Architecture Description Pictures</node>
+            <node x="155.0" y="518.0">org</node>
+            <node x="0.0" y="296.0">resources</node>
+            <node x="0.0" y="148.0">toolbarButtonGraphics</node>
+            <node x="0.0" y="518.0">sun</node>
+            <node x="230.0" y="222.0">META-INF</node>
+            <node x="308.0" y="518.0">jdk</node>
+            <node x="337.0" y="370.0">apple</node>
+            <node x="0.0" y="222.0">groovyjarjarasm</node>
+            <node x="321.0" y="444.0">java</node>
+            <node x="381.0" y="296.0">groovy</node>
+            <node x="0.0" y="444.0">javax</node>
+            <node x="278.0" y="74.0">groovyjarjarcommonscli</node>
+            <node x="169.0" y="370.0">javafx</node>
+            <node x="274.0" y="148.0">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="33.5" y="177.0" />
+          <SelectedNodes>
+            <node>com</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mycompany.mavenproject1.dao">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mycompany.mavenproject1.dao</OriginalElement>
+          <nodes>
+            <node x="312.0" y="0.0">com.mycompany.mavenproject1.dao.Conexao</node>
+            <node x="0.0" y="0.0">com.mycompany.mavenproject1.dao.CountryDAO</node>
+            <node x="302.0" y="228.0">com.mycompany.mavenproject1.dao.CustomerDAOTest</node>
+            <node x="0.0" y="434.0">com.mycompany.mavenproject1.dao.CountryDAOTest</node>
+            <node x="0.0" y="228.0">com.mycompany.mavenproject1.dao.CustomerDAO</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="56.0" y="179.5" />
+          <SelectedNodes>
+            <node>com.mycompany.mavenproject1.dao.Conexao</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mycompany.mavenproject1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mycompany.mavenproject1</OriginalElement>
+          <nodes>
+            <node x="303.23851190476205" y="379.0">com.mycompany.mavenproject1.data.Customer</node>
+            <node x="484.7647108843538" y="2005.0">com.mycompany.mavenproject1.ui.MainUI</node>
+            <node x="150.73851190476205" y="33.0">com.mycompany.mavenproject1.dao.Conexao</node>
+            <node x="695.4440476190478" y="457.5">com.mycompany.mavenproject1.dao.CountryDAO</node>
+            <node x="523.0228146258504" y="1586.5">com.mycompany.mavenproject1.dao.CustomerDAOTest</node>
+            <node x="517.2019727891159" y="0.0">com.mycompany.mavenproject1.data.Country</node>
+            <node x="616.7440476190477" y="993.5">com.mycompany.mavenproject1.dao.CountryDAOTest</node>
+            <node x="20.0" y="1366.0">com.mycompany.mavenproject1.ui.CustomerUI</node>
+            <node x="293.1186394557825" y="972.0">com.mycompany.mavenproject1.dao.CustomerDAO</node>
+            <node x="910.4940476190476" y="839.0">com.mycompany.mavenproject1.ui.CountryUI</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.mycompany.mavenproject1.ui.CustomerUI" target="com.mycompany.mavenproject1.ui.CustomerUI">
+              <point x="-94.25" y="279.5" />
+              <point x="114.25" y="1945.0" />
+              <point x="0.0" y="1945.0" />
+              <point x="0.0" y="1645.5" />
+              <point x="-188.5" y="-0.0" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.dao.CustomerDAOTest" target="com.mycompany.mavenproject1.dao.CountryDAO">
+              <point x="92.57142857142856" y="-59.0" />
+              <point x="723.594243197279" y="1346.0" />
+              <point x="857.9940476190477" y="1346.0" />
+              <point x="857.9940476190477" y="819.0" />
+              <point x="842.2940476190477" y="819.0" />
+              <point x="13.349999999999909" y="91.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.ui.CustomerUI" target="com.mycompany.mavenproject1.data.Customer">
+              <point x="-23.5625" y="-279.5" />
+              <point x="184.9375" y="1346.0" />
+              <point x="204.49297619047627" y="1346.0" />
+              <point x="204.49297619047627" y="779.0" />
+              <point x="378.59565476190494" y="779.0" />
+              <point x="-30.14285714285711" y="170.0" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.dao.CountryDAOTest" target="com.mycompany.mavenproject1.dao.CountryDAO">
+              <point x="25.75" y="-59.0" />
+              <point x="745.4940476190477" y="819.0" />
+              <point x="788.8940476190478" y="819.0" />
+              <point x="-40.049999999999955" y="91.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.ui.MainUI" target="com.mycompany.mavenproject1.dao.CountryDAO">
+              <point x="89.49999999999989" y="-114.5" />
+              <point x="753.2647108843537" y="1975.0" />
+              <point x="879.9940476190477" y="1975.0" />
+              <point x="879.9940476190477" y="819.0" />
+              <point x="895.6940476190478" y="819.0" />
+              <point x="66.75" y="91.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.ui.CountryUI" target="com.mycompany.mavenproject1.data.Country">
+              <point x="126.75" y="-213.5" />
+              <point x="1206.2440476190477" y="819.0" />
+              <point x="1157.6329251700681" y="819.0" />
+              <point x="1157.6329251700681" y="269.0" />
+              <point x="768.2853061224492" y="269.0" />
+              <point x="120.08333333333337" y="114.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.dao.CustomerDAO" target="com.mycompany.mavenproject1.dao.Conexao">
+              <point x="-96.375" y="-80.5" />
+              <point x="325.2436394557825" y="759.0" />
+              <point x="272.73851190476205" y="759.0" />
+              <point x="0.0" y="81.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.ui.MainUI" target="com.mycompany.mavenproject1.ui.MainUI">
+              <point x="-89.5" y="114.5" />
+              <point x="574.2647108843538" y="2254.0" />
+              <point x="464.7647108843538" y="2254.0" />
+              <point x="464.7647108843538" y="2176.75" />
+              <point x="-179.0" y="57.25" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.ui.MainUI" target="com.mycompany.mavenproject1.ui.CountryUI">
+              <point x="149.16666666666663" y="-114.5" />
+              <point x="812.9313775510204" y="1985.0" />
+              <point x="1163.9940476190477" y="1985.0" />
+              <point x="84.5" y="213.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.dao.Conexao" target="com.mycompany.mavenproject1.dao.Conexao">
+              <point x="-81.33333333333331" y="81.5" />
+              <point x="191.40517857142873" y="216.0" />
+              <point x="130.73851190476205" y="216.0" />
+              <point x="130.73851190476205" y="114.5" />
+              <point x="-122.0" y="-0.0" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.dao.CustomerDAOTest" target="com.mycompany.mavenproject1.dao.CustomerDAO">
+              <point x="-92.57142857142856" y="-59.0" />
+              <point x="538.4513860544218" y="1346.0" />
+              <point x="485.8686394557825" y="1346.0" />
+              <point x="64.25" y="80.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.dao.CustomerDAO" target="com.mycompany.mavenproject1.data.Customer">
+              <point x="-32.125" y="-80.5" />
+              <point x="389.4936394557825" y="779.0" />
+              <point x="408.73851190476205" y="779.0" />
+              <point x="0.0" y="170.0" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.ui.MainUI" target="com.mycompany.mavenproject1.dao.CustomerDAO">
+              <point x="-89.50000000000011" y="-114.5" />
+              <point x="574.2647108843537" y="1975.0" />
+              <point x="416.11863945578256" y="1975.0" />
+              <point x="416.11863945578256" y="1346.0" />
+              <point x="400.20197278911587" y="1346.0" />
+              <point x="-21.41666666666663" y="80.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.dao.CountryDAOTest" target="com.mycompany.mavenproject1.data.Country">
+              <point x="-25.75" y="-59.0" />
+              <point x="693.9940476190477" y="779.0" />
+              <point x="673.7440476190477" y="779.0" />
+              <point x="673.7440476190477" y="359.0" />
+              <point x="680.9519727891159" y="359.0" />
+              <point x="32.75" y="114.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.ui.CustomerUI" target="com.mycompany.mavenproject1.dao.CustomerDAO">
+              <point x="164.9375" y="-279.5" />
+              <point x="373.4375" y="1346.0" />
+              <point x="357.3686394557825" y="1346.0" />
+              <point x="-64.25" y="80.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.dao.CountryDAOTest" target="com.mycompany.mavenproject1.dao.CountryDAOTest">
+              <point x="-51.5" y="59.0" />
+              <point x="668.2440476190477" y="1131.5" />
+              <point x="596.7440476190477" y="1131.5" />
+              <point x="596.7440476190477" y="1052.5" />
+              <point x="-103.0" y="-0.0" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.dao.CountryDAO" target="com.mycompany.mavenproject1.dao.Conexao">
+              <point x="-89.0" y="-91.5" />
+              <point x="739.9440476190478" y="309.0" />
+              <point x="354.0718452380954" y="309.0" />
+              <point x="81.33333333333337" y="81.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.dao.CustomerDAOTest" target="com.mycompany.mavenproject1.dao.CustomerDAOTest">
+              <point x="0.0" y="59.0" />
+              <point x="631.0228146258504" y="1724.5" />
+              <point x="503.0228146258504" y="1724.5" />
+              <point x="503.0228146258504" y="1645.5" />
+              <point x="-108.0" y="-0.0" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.dao.CustomerDAOTest" target="com.mycompany.mavenproject1.dao.CountryDAOTest">
+              <point x="61.71428571428578" y="-59.0" />
+              <point x="692.7371003401362" y="1336.0" />
+              <point x="771.2440476190477" y="1336.0" />
+              <point x="51.5" y="59.0" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.data.Customer" target="com.mycompany.mavenproject1.data.Customer">
+              <point x="-90.42857142857144" y="170.0" />
+              <point x="318.3099404761906" y="739.0" />
+              <point x="283.23851190476205" y="739.0" />
+              <point x="283.23851190476205" y="549.0" />
+              <point x="-105.5" y="-0.0" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.dao.CustomerDAOTest" target="com.mycompany.mavenproject1.data.Customer">
+              <point x="-30.85714285714289" y="-59.0" />
+              <point x="600.1656717687075" y="1326.0" />
+              <point x="560.6186394557825" y="1326.0" />
+              <point x="560.6186394557825" y="779.0" />
+              <point x="469.02422619047627" y="779.0" />
+              <point x="60.28571428571422" y="170.0" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.ui.CustomerUI" target="com.mycompany.mavenproject1.dao.CountryDAO">
+              <point x="23.5625" y="-279.5" />
+              <point x="232.0625" y="1346.0" />
+              <point x="215.49297619047627" y="1346.0" />
+              <point x="215.49297619047627" y="789.0" />
+              <point x="708.7940476190477" y="789.0" />
+              <point x="-120.14999999999998" y="91.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.ui.CustomerUI" target="com.mycompany.mavenproject1.data.Country">
+              <point x="-164.9375" y="-279.5" />
+              <point x="43.5625" y="1316.0" />
+              <point x="141.62185374149658" y="1316.0" />
+              <point x="141.62185374149658" y="319.0" />
+              <point x="549.9519727891159" y="319.0" />
+              <point x="-98.25" y="114.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.ui.MainUI" target="com.mycompany.mavenproject1.ui.CustomerUI">
+              <point x="-149.16666666666663" y="-114.5" />
+              <point x="514.5980442176872" y="1985.0" />
+              <point x="302.75" y="1985.0" />
+              <point x="94.25" y="279.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.data.Country" target="com.mycompany.mavenproject1.data.Country">
+              <point x="-120.08333333333333" y="114.5" />
+              <point x="528.1186394557825" y="249.0" />
+              <point x="497.20197278911587" y="249.0" />
+              <point x="497.20197278911587" y="114.5" />
+              <point x="-131.0" y="-0.0" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.dao.CountryDAO" target="com.mycompany.mavenproject1.data.Country">
+              <point x="0.0" y="-91.5" />
+              <point x="828.9440476190478" y="299.0" />
+              <point x="702.7853061224492" y="299.0" />
+              <point x="54.58333333333337" y="114.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.dao.CustomerDAOTest" target="com.mycompany.mavenproject1.data.Country">
+              <point x="30.85714285714289" y="-59.0" />
+              <point x="661.8799574829933" y="1306.0" />
+              <point x="586.2440476190476" y="1306.0" />
+              <point x="586.2440476190476" y="359.0" />
+              <point x="637.2853061224491" y="359.0" />
+              <point x="-10.916666666666742" y="114.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.data.Customer" target="com.mycompany.mavenproject1.data.Country">
+              <point x="-52.75" y="-170.0" />
+              <point x="355.98851190476205" y="339.0" />
+              <point x="593.6186394557825" y="339.0" />
+              <point x="-54.58333333333337" y="114.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.dao.CustomerDAO" target="com.mycompany.mavenproject1.dao.CountryDAO">
+              <point x="96.375" y="-80.5" />
+              <point x="517.9936394557825" y="809.0" />
+              <point x="762.1940476190478" y="809.0" />
+              <point x="-66.75" y="91.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.ui.CountryUI" target="com.mycompany.mavenproject1.dao.CountryDAO">
+              <point x="-126.75" y="-213.5" />
+              <point x="952.7440476190476" y="819.0" />
+              <point x="922.3940476190476" y="819.0" />
+              <point x="93.44999999999993" y="91.5" />
+            </edge>
+            <edge source="com.mycompany.mavenproject1.ui.CountryUI" target="com.mycompany.mavenproject1.ui.CountryUI">
+              <point x="-84.5" y="213.5" />
+              <point x="994.9940476190476" y="1286.0" />
+              <point x="890.4940476190476" y="1286.0" />
+              <point x="890.4940476190476" y="1052.5" />
+              <point x="-169.0" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="707.0" y="862.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mavenproject1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
