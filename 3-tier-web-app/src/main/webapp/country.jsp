@@ -1,3 +1,4 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -22,7 +23,7 @@
                 <h2>Country Management</h2>
             </div>
             <div class="row">
-                <form action="#" method="POST">
+                <form action="countryController" method="POST">
                     <div class="form-group">
                         <label for="inputName">Country name</label>
                         <input class="form-control" type="input" id="inputName" name="inputName" placeholder="E.g. Brazil" maxlength="30"/>
@@ -50,12 +51,14 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
-                            <td>1</td>
-                            <td>Brazil</td>
-                            <td>BR</td>
-                            <td>8</td>
-                        </tr>
+                        <c:forEach var = "country" items="${sessionScope.countryList}">
+                            <tr>
+                                <td>${country.id}</td>
+                                <td>${country.name}</td>
+                                <td>${country.acronym}</td>
+                                <td>${country.digits}</td>
+                            </tr>                            
+                        </c:forEach> 
                     </tbody>
                 </table>
             </div>
