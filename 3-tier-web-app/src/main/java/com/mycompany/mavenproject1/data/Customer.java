@@ -14,6 +14,17 @@ public class Customer {
     public Customer() {
     }
 
+    public Customer (int id, String name, int age, String phone, String country, double creditLimit) throws Exception {
+        this();
+
+        this.setId(id);
+        this.setName(name);
+        this.setAge(age);
+        this.setPhone(phone);
+        this.getCountry().setName(country);
+        this.setCreditLimit(creditLimit);
+    }
+
     public int getId() {
         return id;
     }
